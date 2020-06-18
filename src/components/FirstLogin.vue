@@ -8,13 +8,11 @@
       <div class="form-login">
         <form id="form" v-on:submit.prevent="addBook">
           <div class="form-group">
-            <input type="email" id="bookTitle" placeholder="Nomor ponsel atau email" class="form-control" v-model="newBook.title" style="background: #ebebeb;">
+            <input type="text" id="bookTitle" placeholder="Nomor ponsel atau email" class="form-control" v-model="newBook.title" style="background: #ebebeb;">
             <input type="password" id="bookAuthor" placeholder="Kata sandi" class="form-control" v-model="newBook.author" style="background: #ebebeb;">
           </div>
-          <div class="form-grup"> 
-            <router-link to="/login.facebook.com/loading">
+          <div class="form-grup">
               <input type="submit" class="btn btn-primary" value="Masuk" style="width: 100%; background:blue;">
-            </router-link>
           </div>
         </form><br><br>
         <div class="form-group">
