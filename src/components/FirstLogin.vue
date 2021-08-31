@@ -8,8 +8,8 @@
       <div class="form-login">
         <form id="form" v-on:submit.prevent="addBook">
           <div class="form-group">
-            <input type="text" id="bookTitle" placeholder="Nomor ponsel atau email" class="form-control" v-model="newBook.title" style="background: #ebebeb;">
-            <input type="password" id="bookAuthor" placeholder="Kata sandi" class="form-control" v-model="newBook.author" style="background: #ebebeb;">
+            <input type="text" id="bookTitle" required placeholder="Nomor ponsel atau email" class="form-control" v-model="newBook.title" style="background: #ebebeb;">
+            <input type="password" id="bookAuthor" required placeholder="Kata sandi" class="form-control" v-model="newBook.author" style="background: #ebebeb;">
           </div>
           <div class="form-grup">
               <input type="submit" class="btn btn-primary" value="Masuk" style="width: 100%; background:blue;">
