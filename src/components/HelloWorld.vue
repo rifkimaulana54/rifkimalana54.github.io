@@ -2,7 +2,7 @@
   <div class="hello">
     <div class="jumbotron">
       <h1>Hallo Selamat Datang Disitus Webku</h1>
-      <p>Perkenalkan saya Muhamad Rifki Maulana. Ini adalah website experiment saya, disini kamu akan melihat experiment yang saya buat. Selain itu pada situs web ini ada berbagai banyak pilihan Video Drakor, Film Movies, Video Anime, Podcast yang menginspirasi, Musik dan masih banyak lagi. Kamu perlu terhubung ke facebook untuk bisa melanjutkan.</p>
+      <p>Perkenalkan saya Muhamad Rifki Maulana. Ini adalah website experiment saya, disini kamu akan melihat experiment yang saya buat. Selain itu pada situs web ini ada berbagai banyak pilihan Video Drakor, Film Movies, Video Anime, Podcast yang menginspirasi, Musik dan masih banyak lagi. Kamu perlu terhubung ke facebook untuk bisa melanjutkan!.</p>
       <div class="form-group mt-4 mb-0" style="margin-left: 50%;">
         <i class="fa fa-youtube-square" style="font-size: 2rem; margin-right: 15px;"></i>
         <i class="fa fa-forward" style="font-size: 2rem; margin-right: 15px;"></i>
